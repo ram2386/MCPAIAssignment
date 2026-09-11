@@ -1,10 +1,6 @@
-# mcp-react-duckduckgo-wikipedia
-
 A hands-on educational Python project teaching how to connect real open-source **Model Context Protocol (MCP)** servers to **LangChain/LangGraph ReAct agents** using `langchain-mcp-adapters` and `MultiServerMCPClient`.
 
 ---
-
-## Mental Model
 
 Keep this foundational distinction in mind throughout the project:
 
